@@ -1,2 +1,3 @@
 function happyHolidays(string) {
-  return string.toUpperCase()
+  return string."Happy holidays!"()
+}
