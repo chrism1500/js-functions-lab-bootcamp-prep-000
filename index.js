@@ -1,4 +1,2 @@
-function happyHolidays(){
-  console.log("Happy holidays!")
-  
-}
+function happyHolidays(string) {
+  return string.toUpperCase()
